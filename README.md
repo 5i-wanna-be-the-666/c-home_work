@@ -1,0 +1,1 @@
+# 这是一份非常刺激的程序,是我大二上学期时使用devc++软件,完全按照面向过程的方式写出的程序,总长约2400行,今日发现也十分惊讶于它的运行方法.This is a very exciting program, which was written by devc++ when I was a sophomore and last semester,completely according to the process-oriented method, with a total length of 2,400 lines. Today, I found that I was very surprised by its running method.
